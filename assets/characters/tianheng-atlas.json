@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "source": "chongplus-20260919-010801-d41a2f44-1.png",
+  "characters": {
+    "scholar": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.0146484375,
+            0.52734375,
+            0.1875,
+            0.458984375
+          ],
+          "aspect": 0.40832507433102083,
+          "anchor": [
+            0.5097087378640777,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    },
+    "shopkeeper": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.3427734375,
+            0.52734375,
+            0.1953125,
+            0.458984375
+          ],
+          "aspect": 0.42507645259938837,
+          "anchor": [
+            0.6294964028776978,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    },
+    "tea-merchant": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.6708984375,
+            0.52734375,
+            0.18115234375,
+            0.458984375
+          ],
+          "aspect": 0.39444995044598613,
+          "anchor": [
+            0.5226130653266332,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    },
+    "dockworker": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.0146484375,
+            0.02734375,
+            0.20263671875,
+            0.458984375
+          ],
+          "aspect": 0.4419942473633749,
+          "anchor": [
+            0.517353579175705,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    },
+    "traveler": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.3427734375,
+            0.02734375,
+            0.17236328125,
+            0.458984375
+          ],
+          "aspect": 0.3758519961051607,
+          "anchor": [
+            0.6010362694300518,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    },
+    "artisan": {
+      "defaultView": "three-quarter",
+      "views": {
+        "three-quarter": {
+          "rect": [
+            0.6708984375,
+            0.02734375,
+            0.19384765625,
+            0.458984375
+          ],
+          "aspect": 0.42279163857046526,
+          "anchor": [
+            0.5757575757575758,
+            0
+          ],
+          "angle": 0
+        }
+      }
+    }
+  },
+  "artisanCorrection": "chongplus-20260919-012348-cb932111-1.png"
+}
